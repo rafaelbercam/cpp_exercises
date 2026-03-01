@@ -1,8 +1,8 @@
-# 📚 Exercícios em C++
+# Exercícios em C++
 
 Uma coleção de exercícios práticos em C++ para aprender lógica de programação, manipulação de arrays e algoritmos fundamental.
 
-## 🎯 Conteúdo
+## Conteúdo
 
 ### 1. **Números Primos** (`primes.cpp`)
 Exercícios focados em identificar e trabalhar com números primos.
@@ -77,7 +77,7 @@ Exercícios fundamentais de lógica e algoritmos clássicos.
 
 ---
 
-## 🚀 Como Compilar e Executar (no macOS)
+## Como Compilar e Executar (no macOS)
 
 ### Pré-requisitos
 - Xcode Command Line Tools instaladas
@@ -117,7 +117,7 @@ clang++ src/logic_basics.cpp -o logic && ./logic
 
 ---
 
-## 📋 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 cpp_exercises/
@@ -131,7 +131,7 @@ cpp_exercises/
 
 ---
 
-## 💡 Conceitos de Programação Cobertos
+## Conceitos de Programação Cobertos
 
 | Conceito | Exercício |
 |----------|-----------|
@@ -146,7 +146,7 @@ cpp_exercises/
 
 ---
 
-## 🎓 Sugestões de Prática
+## Sugestões de Prática
 
 1. **Fácil**: 
    - Execute os programas com diferentes entradas
@@ -163,7 +163,7 @@ cpp_exercises/
 
 ---
 
-## 🔧 Melhorias Futuras
+## Melhorias Futuras
 
 - [ ] Adicionar Quick Sort e Merge Sort
 - [ ] Implementar versões com input/output em arquivo
@@ -173,7 +173,7 @@ cpp_exercises/
 
 ---
 
-## 📝 Notas Importantes
+## Notas Importantes
 
 - Todos os programas têm menu interativo
 - Validação de entrada para evitar erros
@@ -182,12 +182,12 @@ cpp_exercises/
 
 ---
 
-## ✨ Autor
+## Autor
 
-Coleção de exercícios criada para fins educacionais.
+Rafael Berçam Medeiros
 
 ---
 
-## 📄 Licença
+## Licença
 
 Código livre para uso educacional e compartilhamento.
